@@ -10,7 +10,6 @@ Using Vector is quite advantageous because it is not obligatory for the programm
 
 ## Just basic and simple !!! 
 
-Simple is key ???
 
 
 
